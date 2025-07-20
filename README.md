@@ -67,7 +67,7 @@ The network includes:
 
 ## 👨‍💻 Author
 
-**Mandalaapu Sai Sudheer**  
+**Mandalapu Sai Sudheer**  
 B.Tech ECE, Anurag University  
 [LinkedIn](https://www.linkedin.com/in/saisudheermandalapu) | [GitHub](https://github.com/isudheer8)
 
